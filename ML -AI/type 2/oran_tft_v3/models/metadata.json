@@ -1,0 +1,12 @@
+{
+  "features": [
+    "throughput_mbps",
+    "latency_ms",
+    "packet_loss_pct",
+    "prb_utilization",
+    "active_ues"
+  ],
+  "lookback": 48,
+  "horizon": 12,
+  "best_validation_pinball_loss": 0.5143804302463284
+}
